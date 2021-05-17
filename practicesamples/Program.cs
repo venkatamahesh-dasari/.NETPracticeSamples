@@ -21,7 +21,13 @@ namespace practicesamples
             jm.statement1();
             jm.statement2();
             jm.statement3();
-
+            methods md = new methods();
+            md.method1();
+            md.method2(10,20);
+            int sum = md.method3(100, 200);
+            Console.WriteLine(sum);
+            int a = md.method4();
+            Console.WriteLine(a);
         }
     }
 }
