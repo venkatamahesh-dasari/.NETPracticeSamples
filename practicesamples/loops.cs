@@ -34,5 +34,14 @@ namespace practicesamples
                 n++;
             } while (n<4);
         }
+        public void loop4()
+        {
+            Console.WriteLine("FOREACH Loop");
+            int[] arr = new int[5] { 10, 20, 30, 40, 50 };
+            foreach(int item in arr)
+            {
+                Console.WriteLine(item);
+            }
+        }
     }
 }
