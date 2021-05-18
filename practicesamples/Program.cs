@@ -33,6 +33,10 @@ namespace practicesamples
             ar.singledimensionarray();
             ar.multidimensionarray();
             ar.jaggedarray();
+            lists li = new lists();
+            li.list1();
+            li.list2();
+            li.list3();
         }
     }
 }
