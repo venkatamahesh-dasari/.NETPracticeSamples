@@ -37,6 +37,9 @@ namespace practicesamples
             li.list1();
             li.list2();
             li.list3();
+            dictionary dr = new dictionary();
+            dr.dictionary1();
+            dr.dictionary2();
         }
     }
 }
