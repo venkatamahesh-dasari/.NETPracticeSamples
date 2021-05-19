@@ -18,6 +18,7 @@ namespace practicesamples
             {
                 Console.Write(s+"\t");
             }
+            Console.WriteLine();
         }
     }
 
