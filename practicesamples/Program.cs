@@ -39,15 +39,18 @@ namespace practicesamples
            li.list3();
            dictionary dr = new dictionary();
            dr.dictionary1();
-           dr.dictionary2();
+            dr.dictionary2();
             mystruct m1;
             m1.i = 10;
             m1.display();
-           enumerated en = new enumerated();
-           en.enum1();
+            enumerated en = new enumerated();
+            en.enum1();
             properties pro= new properties();
             pro.propertie1();
             pro.propertie2();
+            Classes cs = new Classes();
+            cs.name = "Hello";
+            cs.classes1();
         }
     }
 }
