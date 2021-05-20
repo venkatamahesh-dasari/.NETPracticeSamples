@@ -15,13 +15,13 @@ namespace practicesamples
         public void propertie1()
         {
             properties pr = new properties();
-            pr.name = "hello";
+            pr.name = "Hello";
             Console.WriteLine(pr.name);
         }
         int number;
         public int Number
         {
-            get{ return number; }
+            get { return number; }
             set { number = value; }
         }
         public void propertie2()
