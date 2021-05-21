@@ -1,4 +1,5 @@
 ﻿using System;
+using practice.nestednamespace;
 
 namespace practicesamples
 {
@@ -55,6 +56,10 @@ namespace practicesamples
             constructors con1 = new constructors(100, "Hi");
             Console.WriteLine(con1.name);
             Console.WriteLine(con1.a);
+            namespaces ns = new namespaces();
+            ns.namespace1();
+            ns.namespace2();
+
         }
     }
 }
