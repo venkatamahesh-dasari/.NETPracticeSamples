@@ -51,6 +51,10 @@ namespace practicesamples
             Classes cs = new Classes();
             cs.name = "Hello";
             cs.classes1();
+            constructors con = new constructors();
+            constructors con1 = new constructors(100, "Hi");
+            Console.WriteLine(con1.name);
+            Console.WriteLine(con1.a);
         }
     }
 }
