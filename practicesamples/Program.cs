@@ -59,7 +59,12 @@ namespace practicesamples
             namespaces ns = new namespaces();
             ns.namespace1();
             ns.namespace2();
-
+            Iname na = new interfaces();
+            na.getname("Mahesh");
+            multipleinheritance mi = new multipleinheritance();
+            mi.name("Mahesh");
+            mi.location("BVRM");
+            mi.age(23);
         }
     }
 }
