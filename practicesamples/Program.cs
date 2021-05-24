@@ -65,6 +65,13 @@ namespace practicesamples
             mi.name("Mahesh");
             mi.location("BVRM");
             mi.age(23);
+            compiletimepolymorphism cp = new compiletimepolymorphism();
+            cp.addition(200, 300);
+            cp.addition(100, 200, 300);
+            runtimepolybase rb = new runtimepolybase();
+            rb.message();
+            derivedclass dc = new derivedclass();
+            dc.message();
         }
     }
 }
