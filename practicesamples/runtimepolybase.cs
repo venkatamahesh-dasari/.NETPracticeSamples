@@ -11,7 +11,7 @@ namespace practicesamples
             Console.WriteLine("This is Base class");
         }
     }
-    class derivedclass:runtimepolybase
+    class derivedclass : runtimepolybase
     {
         public override void message()
         {

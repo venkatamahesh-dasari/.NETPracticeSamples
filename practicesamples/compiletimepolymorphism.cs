@@ -6,13 +6,13 @@ namespace practicesamples
 {
     class compiletimepolymorphism
     {
-        public void addition(int a,int b)
+        public void addition(int a, int b)
         {
-            Console.WriteLine("a+b:{0}",a+b);
+            Console.WriteLine("a+b:{0}", a + b);
         }
-        public void addition(int a,int b,int c)
+        public void addition(int a, int b, int c)
         {
-            Console.WriteLine("a+b+c:{0}",a+b+c);
+            Console.WriteLine("a+b+c:{0}", a + b + c);
         }
     }
 }
