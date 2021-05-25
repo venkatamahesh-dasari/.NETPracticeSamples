@@ -5,6 +5,10 @@ namespace practicesamples
 {
     class Program
     {
+        static void delegatemethod(parameterdelegatemethod pdm,int a,int b)
+        {
+            pdm(a, b);
+        }
         static void Main(string[] args)
         {
             operators op = new operators();
@@ -88,6 +92,22 @@ namespace practicesamples
             es.Price = 20000;
             es.Price = 70000;
             es.display();
+            singledelegate sd = new singledelegate();
+            delegatemethod dm= sd.addition;
+            dm.Invoke(100, 200);
+            dm = sd.multiplication;
+            dm.Invoke(10, 5);
+            multidelegate mld = new multidelegate();
+            multidelegatemethod mdm;
+            mdm = mld.addition;
+            mdm += mld.subtraction;
+            mdm += mld.multiplication;
+            mdm -= mld.multiplication;
+            mdm(5, 10);
+            parameterdelegate pd = new parameterdelegate();
+            delegatemethod(pd.add, 200, 200);
+            delegatemethod(pd.sub, 200, 700);
+            delegatemethod(pd.mul, 10, 10);
         }
     }
 }
