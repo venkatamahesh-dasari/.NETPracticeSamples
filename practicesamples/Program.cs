@@ -108,6 +108,12 @@ namespace practicesamples
             delegatemethod(pd.add, 200, 200);
             delegatemethod(pd.sub, 200, 700);
             delegatemethod(pd.mul, 10, 10);
+            exceptionhandling e = new exceptionhandling();
+            e.trycatchmethod(100,0);
+            nullabletypes nt = new nullabletypes();
+            nt.nullablemethod1();
+            nt.nullablemethod2();
+            nt.nullablemethod3();
         }
     }
 }
