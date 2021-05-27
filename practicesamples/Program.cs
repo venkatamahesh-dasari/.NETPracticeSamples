@@ -114,6 +114,9 @@ namespace practicesamples
             nt.nullablemethod1();
             nt.nullablemethod2();
             nt.nullablemethod3();
+            filessystem fs = new filessystem();
+            fs.binarywriter();
+            fs.binaryreader();
         }
     }
 }
