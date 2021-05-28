@@ -114,9 +114,18 @@ namespace practicesamples
             nt.nullablemethod1();
             nt.nullablemethod2();
             nt.nullablemethod3();
-            filessystem fs = new filessystem();
+            files fs = new files();
             fs.binarywriter();
             fs.binaryreader();
+            fs.fileinfomathod1();
+            fs.fileinfomethod2();
+            fs.directoryinfomethod1();
+            fs.filestreammethod1();
+            fs.filestreammethod2();
+            fs.streamwritermethod();
+            fs.streamreadermethod();
+            fs.textwritermethod();
+            fs.textreadermethod();
         }
     }
 }
