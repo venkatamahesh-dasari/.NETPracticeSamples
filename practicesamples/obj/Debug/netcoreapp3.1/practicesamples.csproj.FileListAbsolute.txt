@@ -11,3 +11,5 @@ C:\Users\Mahesh Dasari\source\repos\practicesamples\practicesamples\obj\Debug\ne
 C:\Users\Mahesh Dasari\source\repos\practicesamples\practicesamples\obj\Debug\netcoreapp3.1\practicesamples.dll
 C:\Users\Mahesh Dasari\source\repos\practicesamples\practicesamples\obj\Debug\netcoreapp3.1\practicesamples.pdb
 C:\Users\Mahesh Dasari\source\repos\practicesamples\practicesamples\obj\Debug\netcoreapp3.1\practicesamples.genruntimeconfig.cache
+C:\Users\Mahesh Dasari\source\repos\practicesamples\practicesamples\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Mahesh Dasari\source\repos\practicesamples\practicesamples\obj\Debug\netcoreapp3.1\practicesamples.csproj.CopyComplete

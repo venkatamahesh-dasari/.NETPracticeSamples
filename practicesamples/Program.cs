@@ -93,7 +93,7 @@ namespace practicesamples
             es.Price = 70000;
             es.display();
             singledelegate sd = new singledelegate();
-            delegatemethod dm= sd.addition;
+            delegatemethod dm= new delegatemethod(sd.addition);
             dm.Invoke(100, 200);
             dm = sd.multiplication;
             dm.Invoke(10, 5);
@@ -103,7 +103,7 @@ namespace practicesamples
             mdm += mld.subtraction;
             mdm += mld.multiplication;
             mdm -= mld.multiplication;
-            mdm(5, 10);
+            mdm.Invoke(5, 10);
             parameterdelegate pd = new parameterdelegate();
             delegatemethod(pd.add, 200, 200);
             delegatemethod(pd.sub, 200, 700);
