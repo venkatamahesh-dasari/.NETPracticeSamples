@@ -1,0 +1,15 @@
+C:\Users\Mahesh Dasari\source\repos\practicesamples\samplespractice\bin\Debug\netcoreapp3.1\samplespractice.exe
+C:\Users\Mahesh Dasari\source\repos\practicesamples\samplespractice\bin\Debug\netcoreapp3.1\samplespractice.deps.json
+C:\Users\Mahesh Dasari\source\repos\practicesamples\samplespractice\bin\Debug\netcoreapp3.1\samplespractice.runtimeconfig.json
+C:\Users\Mahesh Dasari\source\repos\practicesamples\samplespractice\bin\Debug\netcoreapp3.1\samplespractice.runtimeconfig.dev.json
+C:\Users\Mahesh Dasari\source\repos\practicesamples\samplespractice\bin\Debug\netcoreapp3.1\samplespractice.dll
+C:\Users\Mahesh Dasari\source\repos\practicesamples\samplespractice\bin\Debug\netcoreapp3.1\samplespractice.pdb
+C:\Users\Mahesh Dasari\source\repos\practicesamples\samplespractice\obj\Debug\netcoreapp3.1\samplespractice.AssemblyInfoInputs.cache
+C:\Users\Mahesh Dasari\source\repos\practicesamples\samplespractice\obj\Debug\netcoreapp3.1\samplespractice.AssemblyInfo.cs
+C:\Users\Mahesh Dasari\source\repos\practicesamples\samplespractice\obj\Debug\netcoreapp3.1\samplespractice.csproj.CoreCompileInputs.cache
+C:\Users\Mahesh Dasari\source\repos\practicesamples\samplespractice\obj\Debug\netcoreapp3.1\samplespractice.dll
+C:\Users\Mahesh Dasari\source\repos\practicesamples\samplespractice\obj\Debug\netcoreapp3.1\samplespractice.pdb
+C:\Users\Mahesh Dasari\source\repos\practicesamples\samplespractice\obj\Debug\netcoreapp3.1\samplespractice.genruntimeconfig.cache
+C:\Users\Mahesh Dasari\source\repos\practicesamples\samplespractice\obj\Debug\netcoreapp3.1\samplespractice.csprojAssemblyReference.cache
+C:\Users\Mahesh Dasari\source\repos\practicesamples\samplespractice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Mahesh Dasari\source\repos\practicesamples\samplespractice\obj\Debug\netcoreapp3.1\samplespractice.csproj.CopyComplete

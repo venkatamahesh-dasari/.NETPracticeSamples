@@ -1,0 +1,15 @@
+C:\Users\Mahesh Dasari\source\repos\practicesamples\DOTNETPracticeSamples\bin\Debug\netcoreapp3.1\DOTNETPracticeSamples.exe
+C:\Users\Mahesh Dasari\source\repos\practicesamples\DOTNETPracticeSamples\bin\Debug\netcoreapp3.1\DOTNETPracticeSamples.deps.json
+C:\Users\Mahesh Dasari\source\repos\practicesamples\DOTNETPracticeSamples\bin\Debug\netcoreapp3.1\DOTNETPracticeSamples.runtimeconfig.json
+C:\Users\Mahesh Dasari\source\repos\practicesamples\DOTNETPracticeSamples\bin\Debug\netcoreapp3.1\DOTNETPracticeSamples.runtimeconfig.dev.json
+C:\Users\Mahesh Dasari\source\repos\practicesamples\DOTNETPracticeSamples\bin\Debug\netcoreapp3.1\DOTNETPracticeSamples.dll
+C:\Users\Mahesh Dasari\source\repos\practicesamples\DOTNETPracticeSamples\bin\Debug\netcoreapp3.1\DOTNETPracticeSamples.pdb
+C:\Users\Mahesh Dasari\source\repos\practicesamples\DOTNETPracticeSamples\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Mahesh Dasari\source\repos\practicesamples\DOTNETPracticeSamples\obj\Debug\netcoreapp3.1\DOTNETPracticeSamples.csprojAssemblyReference.cache
+C:\Users\Mahesh Dasari\source\repos\practicesamples\DOTNETPracticeSamples\obj\Debug\netcoreapp3.1\DOTNETPracticeSamples.AssemblyInfoInputs.cache
+C:\Users\Mahesh Dasari\source\repos\practicesamples\DOTNETPracticeSamples\obj\Debug\netcoreapp3.1\DOTNETPracticeSamples.AssemblyInfo.cs
+C:\Users\Mahesh Dasari\source\repos\practicesamples\DOTNETPracticeSamples\obj\Debug\netcoreapp3.1\DOTNETPracticeSamples.csproj.CoreCompileInputs.cache
+C:\Users\Mahesh Dasari\source\repos\practicesamples\DOTNETPracticeSamples\obj\Debug\netcoreapp3.1\DOTNETPracticeSamples.csproj.CopyComplete
+C:\Users\Mahesh Dasari\source\repos\practicesamples\DOTNETPracticeSamples\obj\Debug\netcoreapp3.1\DOTNETPracticeSamples.dll
+C:\Users\Mahesh Dasari\source\repos\practicesamples\DOTNETPracticeSamples\obj\Debug\netcoreapp3.1\DOTNETPracticeSamples.pdb
+C:\Users\Mahesh Dasari\source\repos\practicesamples\DOTNETPracticeSamples\obj\Debug\netcoreapp3.1\DOTNETPracticeSamples.genruntimeconfig.cache

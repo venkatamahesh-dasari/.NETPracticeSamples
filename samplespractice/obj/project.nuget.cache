@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Tc8byonGzucIaVlEwBfk1QTRGLXNyZrfsPOEbrWJMgbKLIm5H3yk9xE0zQYpcago4wDyU6HmARPFaifMqOHM+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mahesh Dasari\\source\\repos\\practicesamples\\samplespractice\\samplespractice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mahesh Dasari\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
